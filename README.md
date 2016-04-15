@@ -1,1 +1,1 @@
-一些记录
+1.canvas-video canvas画布同步video播放器播放图像
